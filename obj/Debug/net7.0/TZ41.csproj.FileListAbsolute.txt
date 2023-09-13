@@ -1,0 +1,14 @@
+C:\Users\stasi\OneDrive\Desktop\TZ41\bin\Debug\net7.0\TZ41.exe
+C:\Users\stasi\OneDrive\Desktop\TZ41\bin\Debug\net7.0\TZ41.deps.json
+C:\Users\stasi\OneDrive\Desktop\TZ41\bin\Debug\net7.0\TZ41.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\TZ41\bin\Debug\net7.0\TZ41.dll
+C:\Users\stasi\OneDrive\Desktop\TZ41\bin\Debug\net7.0\TZ41.pdb
+C:\Users\stasi\OneDrive\Desktop\TZ41\obj\Debug\net7.0\TZ41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\TZ41\obj\Debug\net7.0\TZ41.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\TZ41\obj\Debug\net7.0\TZ41.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\TZ41\obj\Debug\net7.0\TZ41.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\TZ41\obj\Debug\net7.0\TZ41.dll
+C:\Users\stasi\OneDrive\Desktop\TZ41\obj\Debug\net7.0\refint\TZ41.dll
+C:\Users\stasi\OneDrive\Desktop\TZ41\obj\Debug\net7.0\TZ41.pdb
+C:\Users\stasi\OneDrive\Desktop\TZ41\obj\Debug\net7.0\TZ41.genruntimeconfig.cache
+C:\Users\stasi\OneDrive\Desktop\TZ41\obj\Debug\net7.0\ref\TZ41.dll
